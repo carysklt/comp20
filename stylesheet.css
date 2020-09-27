@@ -1,0 +1,37 @@
+header img {
+  height: 80px;
+}
+
+header {
+  background-color: #ffffff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+  margin-top: 100px;
+  padding: 40px;
+}
+
+main {
+  color: #6cadf9;
+}
+
+h1 {
+  text-align: center;
+  color: #ff4850;
+  /*missing: font type, size*/
+}
+
