@@ -21,6 +21,7 @@ ul {
 }
 
 li {
+  font-family: Helvetica, sans-serif;
   display: inline-block;
   margin: 0 10px;
 }
