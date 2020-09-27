@@ -11,14 +11,14 @@ header {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 30;
+  margin: 0px;
+  padding: 30px;
 }
 
 li {
   font-family: Helvetica, sans-serif;
   display: inline-block;
-  margin: 0 10px;
+  margin: 10px;
 }
 
 body {
