@@ -12,13 +12,13 @@ header {
 ul {
   list-style-type: none;
   margin: 0px;
-  padding: 30px;
 }
 
 li {
   font-family: Helvetica, sans-serif;
   display: inline-block;
   margin: 10px;
+  padding: 20px;
 }
 
 body {
