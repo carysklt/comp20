@@ -1,7 +1,7 @@
 <html>
   <head>
   pingu.o studios
-    <link rel="stylesheet" type="text/css" href="https://carysklt.github.io/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="https://carysklt.github.io/comp20/business-website/stylesheet.css">
   </head>
   <body>
    <ul>
