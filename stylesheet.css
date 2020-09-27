@@ -38,3 +38,12 @@ h1 {
   /*missing: font type, size*/
 }
 
+a:link, a:visited {
+  background-color: #ff4850;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  background-color: #de5057;
+  text-decoration: none;
+}
