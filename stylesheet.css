@@ -51,7 +51,7 @@ a:hover, a:active {
 
 /* form */
 
-input[type=text] {
+input {
   border: 2px #ff4850;
   border-radius: 4px;
 }
