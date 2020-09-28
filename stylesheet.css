@@ -66,3 +66,7 @@ input[type=button], input[type=submit], input[type=reset] {
   margin: 4px 2px;
   font-size: 20;
 }
+
+textarea {
+  color: #ff4850;
+}
