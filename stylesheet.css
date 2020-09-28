@@ -48,3 +48,10 @@ a:hover, a:active {
   color: #de5057;
   text-decoration: none;
 }
+
+/* form */
+
+input[type=text] {
+  border: 2px #ff4850;
+  border-radius: 4px;
+}
