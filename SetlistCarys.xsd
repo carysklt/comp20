@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"
+xmlns:xsl="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="SetlistSchemaCarys.xsd"
+?>
+<?xml-stylesheet type="text/css" href="xmlstyle.css"?>
+<setlist>
+  <song>
+    <artist>BIBI</artist>
+    <title>KAZINO</artist>
+    <musicGenre>Hip-hop, kpop</musicGenre>
+    <releaseYear>2020</releaseYear>
+  </song>
+  
+  <song>
+    <artist>BTS</artist>
+    <title>Dynamite</title>
+    <musicGenre>Disco-pop</musicGenre>
+    <releaseYear>2020</releaseYear>
+  </song>
+  
+  <song>
+    <artist>DEAN</artist>
+    <title>21</title>
+    <musicGenre>R&amp;B, soul<musicGenre>
+    <releaseYear>2016</releaseYear>
+  </song>
+  
+  <song>
+    <artist>fredwave</artist>
+    <title>99</title>
+    <musicGenre>Dance, electronic</musicGenre>
+    <releaseYear>2017</releaseYear>
+  </song>
+
+  <song>
+    <artist>Hozier</artist>
+    <title>Take Me To Church</title>
+    <musicGenre>Indie rock, soul, blues</musicGenre>
+    <releaseYear>2013</releaseYear>
+  </song>
+  
+  <song>
+    <artist>Jimin Park</artist>
+    <title>Stay Beautiful</title>
+    <musicGenre>R&amp;B</musicGenre>
+    <releaseYear>2019</releaseYear>
+  </song>
+  
+  <song>
+    <artist>Qveen Herby</artist>
+    <title>Chakras</title>
+    <musicGenre>Pop</musicGenre>
+    <releaseYear>2020</releaseYear>
+  </song>
+  
+  <song>
+    <artist>Stromae</artist>
+    <title>tous les mêmes</title>
+    <musicGenre>Pop, electro swing, hip-hop</musicGenre>
+    <releaseYear>2013</releaseYear>
+  </song>
+  
+  <song>
+    <artist>Villain</artist>
+    <title>Luhvin It</title>
+    <musicGenre>Hip-hop, rap</musicGenre>
+    <releaseYear>2018</releaseYear>
+  </song>
+  
+  <song>
+    <artist>謝霆鋒</artist>
+    <title>塑造 (ft. 王嘉爾)</title>
+    <musicGenre>Pop</musicGenre>
+    <releaseYear>2019</releaseYear>
+  </song>
+  
+</setlist>

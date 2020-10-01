@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xsl="http://www.w3.org/2001/XMLSchema-instance">
+
+<xs:element name="setlist">
+
+<xs:complexType>
+  <xs:all>
+    <xs:element name="song" type="xs:string"/>
+      
+      <xs:complexType>
+        <xs:sequence>
+        
+          <xs:element name="artist" type="xs:string"/>
+          <xs:element name="title" type="xs:string"/>
+          <xs:element name="musicGenre" type="xs:string"/>
+          <xs:element name="releaseYear" type="xs:integer">
+            <xs:simpleType>
+              <xs:restriction base="xs:integer">
+                <xs:pattern value="\d{4}"/>
+              </xs:restrictions>
+            </xs:simpleType>
+          </xs:element>
+          
+</xs:complexType>
+
+</xs:element> 
+
+<xs:schema> 
