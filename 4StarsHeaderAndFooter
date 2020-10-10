@@ -1,5 +1,10 @@
 <!-- code for the header -->
 <html>
+  <head>
+  <link rel="stylesheet" type="text/css" href="4starsStyle.css">
+  </head>
+  
+  <body>
   <div class="header">
     <img src="4starsLogo.png" alt="logo">
     <a href="#">home</a>
@@ -22,7 +27,7 @@
     
     
   </div>
-  
+  </body>
 
 <!-- code for the footer -->
 
