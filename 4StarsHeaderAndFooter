@@ -1,0 +1,29 @@
+<!-- code for the header -->
+<html>
+  <div class="header">
+    <img src="4starsLogo.png" alt="logo">
+    <a href="#">home</a>
+    <div class="dropdown">
+      <button class="dropbtn">about us</button>
+        <div class="dropdown-content">
+          <a href="#">our story</a>
+          <a href="#">locations</a>
+          <a href="#">customer reviews</a>
+        </div>
+    </div>
+    <a href="#">menu</a>
+    <div class="dropdown">
+      <button class="dropbtn">get in touch</button>
+        <div class="dropdown-content">
+          <a href="#">contact</a>
+          <a href="#">reservations</a>
+        </div>
+    </div>
+    
+    
+  </div>
+  
+
+<!-- code for the footer -->
+
+</html>
