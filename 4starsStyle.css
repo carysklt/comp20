@@ -50,17 +50,25 @@ p {
   display: inline-block;
 }
 
+
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #faf5ec;
   min-width: 150px;
+  z-index: 1;
 }
 
 .dropdown-content a {
-  color: #faf5ec
+  color: #faf5ec;
   padding: 20px;
+  text-decoration: none;
   font-family:sans-serif;
+  display: block;
 }
 
 .dropdown-content a:hover {background-color: #f6eedf;}
+
+.dropdown:hover .dropdown-content {display:block;}
+
+.dropdown:hover .dropbtn {background-color: #faf5ec;}
