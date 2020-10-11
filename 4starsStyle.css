@@ -10,6 +10,7 @@
   color: #eebe2f;
   padding: 20px;
   padding-right:100px;
+  min-width: 250px;
   font-size: 20px;
   text-decoration: none;
 }
@@ -57,7 +58,8 @@ p {
   display: none;
   position: absolute;
   background-color: #faf5ec;
-  min-width: 200px;
+  min-width: 250px;
+  max-width: 250px;
   z-index: 1;
 }
 
