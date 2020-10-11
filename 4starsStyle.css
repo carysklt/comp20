@@ -1,7 +1,7 @@
 .navbar {
   background-color: #faf5ec;
   padding: 20px;
-  margin-right: 100px;
+  margin-right: 50px;
 }
 
 .navbar a {
@@ -9,8 +9,8 @@
   text-align: center;
   color: #eebe2f;
   padding: 20px;
-  margin-right:100px;
-  min-width: 250px;
+  margin-right:50px;
+  min-width: 200px;
   font-size: 20px;
   text-decoration: none;
 }
@@ -58,8 +58,8 @@ p {
   display: none;
   position: absolute;
   background-color: #faf5ec;
-  min-width: 250px;
-  max-width: 250px;
+  min-width: 200px;
+  max-width: 200px;
   z-index: 1;
 }
 
