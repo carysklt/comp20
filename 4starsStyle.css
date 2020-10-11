@@ -53,6 +53,7 @@ p {
 .dropdown {
   position: relative;
   display: inline-block;
+  width: 150px;
 }
 
 
@@ -60,8 +61,7 @@ p {
   display: none;
   position: absolute;
   background-color: #faf5ec;
-  min-width: 150px;
-  max-width: 150px;
+  width: 150px;
   z-index: 1;
 }
 
