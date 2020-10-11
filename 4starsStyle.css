@@ -12,8 +12,6 @@
   text-decoration: none;
 }
 
-.navbar a:hover {color: #edb91d;}
-
 body {
   background-color: #faf5ec;
   font-size: 20px;
@@ -67,9 +65,8 @@ p {
   font-family: "Times New Roman", times, serif;
   display: block;
 }
-
-.dropdown-content a:hover {background-color: #f6eedf;}
+.navbar a:hover, .dropdown-content:hover .dropbtn{
+  background-color: #f6eedf;
+}
 
 .dropdown:hover .dropdown-content {display:block;}
-
-.dropdown:hover .dropbtn {background-color: #faf5ec;}
