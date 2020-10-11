@@ -40,30 +40,30 @@ p {
   background-color: #faf5ec;
   color: #eebe2f;
   padding: 40px;
-  width: 150px;
+/*   width: 150px; */
   font-size: 20px;
   font-family: "Times New Roman", times, serif;
-  text-decoration: none;
   border: none;
 }
 
 .dropdown {
   position: relative;
   display: inline-block;
-  width: 150px;
+/*   width: 150px; */
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
   background-color: #faf5ec;
-  width: 150px;
+  min-width: 150px;
   z-index: 1;
 }
 
 .dropdown-content a {
   color: #eebe2f;
   text-decoration: none;
+  text-align: center;
   font-family: "Times New Roman", times, serif;
   display: block;
 }
