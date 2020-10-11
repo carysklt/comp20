@@ -42,6 +42,7 @@ p {
   color: #eebe2f;
   padding: 20px;
   font-size: 20px;
+  font-family: "Times New Roman", times, serif;
   text-decoration: none;
 }
 
@@ -63,7 +64,7 @@ p {
   color: #faf5ec;
   padding: 20px;
   text-decoration: none;
-  font-family:sans-serif;
+  font-family: "Times New Roman", times, serif;
   display: block;
 }
 
