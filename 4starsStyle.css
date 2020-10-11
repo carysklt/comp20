@@ -10,7 +10,7 @@
   color: #eebe2f;
   padding: 20px;
   margin-right:50px;
-  min-width: 200px;
+  width: 150px;
   font-size: 20px;
   text-decoration: none;
 }
@@ -43,6 +43,7 @@ p {
   background-color: #faf5ec;
   color: #eebe2f;
   padding: 20px;
+  width: 150px;
   font-size: 20px;
   font-family: "Times New Roman", times, serif;
   text-decoration: none;
@@ -59,8 +60,8 @@ p {
   display: none;
   position: absolute;
   background-color: #faf5ec;
-  min-width: 200px;
-  max-width: 200px;
+  min-width: 150px;
+  max-width: 150px;
   z-index: 1;
 }
 
