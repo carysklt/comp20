@@ -18,6 +18,7 @@
 body {
   background-color: #faf5ec;
   font-size: 20px;
+  min-height: 100%;
 }
 
 h1 {
