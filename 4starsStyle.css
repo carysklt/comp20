@@ -40,7 +40,7 @@ p {
 .dropbtn {
   background-color: #faf5ec;
   color: #eebe2f;
-  padding: 20px;
+  padding: 40px;
   width: 150px;
   font-size: 20px;
   font-family: "Times New Roman", times, serif;
@@ -64,7 +64,6 @@ p {
 
 .dropdown-content a {
   color: #eebe2f;
-  padding: 20px;
   text-decoration: none;
   font-family: "Times New Roman", times, serif;
   display: block;
