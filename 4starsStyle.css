@@ -1,18 +1,18 @@
-.header {
+.navbar {
   background-color: #faf5ec;
   padding: 20px;
 }
 
-.header a {
+.navbar a {
   float: left;
+  text-align: center;
   color: #eebe2f;
-  padding: 10px;
+  padding: 20px;
   font-size: 20px;
   text-decoration: none;
-  line-height:25px;
 }
 
-.header a:hover {color: #edb91d;}
+.navbar a:hover {color: #edb91d;}
 
 body {
   background-color: #faf5ec;
