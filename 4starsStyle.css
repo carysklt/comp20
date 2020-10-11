@@ -75,3 +75,12 @@ p {
 }
 
 .dropdown:hover .dropdown-content {display:block;}
+
+.footer{
+  position:fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #eebe2f;
+  color: #be3439;
+}
