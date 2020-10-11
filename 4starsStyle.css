@@ -72,7 +72,7 @@ p {
   font-family: "Times New Roman", times, serif;
   display: block;
 }
-.navbar a:hover, .dropdown-content:hover .dropbtn{
+.navbar a:hover, .dropdown-content:hover, .dropbtn:hover{
   background-color: #f6eedf;
 }
 
