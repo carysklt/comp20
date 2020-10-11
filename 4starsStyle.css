@@ -64,13 +64,17 @@ p {
   background-color: #f6eedf;
 }
 .dropdown:hover .dropdown-content {display:block;}
+
 .footer{
   position:fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  padding: 3px;
   padding: 5px;
   background-color: #eebe2f;
   color: #be3439;
+}
+.img-container {
+  margin-top: 10px;
+  text-align: center;
 }
