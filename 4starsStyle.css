@@ -13,11 +13,6 @@
 
 .header a:hover {color: #edb91d;}
 
-.header a.logo{
-  font-size: 25px;
-  max-height: 25px;
-}
-
 body {
   background-color: #faf5ec;
   font-size: 20px;
