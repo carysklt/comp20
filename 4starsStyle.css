@@ -1,6 +1,7 @@
 .navbar {
   background-color: #faf5ec;
   padding: 20px;
+  padding-right: 100px;
 }
 
 .navbar a {
@@ -8,6 +9,7 @@
   text-align: center;
   color: #eebe2f;
   padding: 20px;
+  padding-right:100px;
   font-size: 20px;
   text-decoration: none;
 }
