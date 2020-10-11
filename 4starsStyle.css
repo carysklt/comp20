@@ -1,6 +1,5 @@
 .navbar {
   background-color: #faf5ec;
-  margin-right: 50px;
 }
 
 .navbar a {
@@ -40,7 +39,7 @@ p {
 .dropbtn {
   background-color: #faf5ec;
   color: #eebe2f;
-  padding: 20px;
+  margin-right: 50px;
   width: 150px;
   font-size: 20px;
   font-family: "Times New Roman", times, serif;
@@ -87,5 +86,5 @@ p {
 }
 
 .img-container {
-        text-align: center;
+  text-align: center;
 }
